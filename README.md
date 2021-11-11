@@ -2,4 +2,4 @@
 
 Learn GitHub Actions through a fun little game.
 
-And some more.
+And some more!
